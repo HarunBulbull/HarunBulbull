@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harunbulbull" alt="harunbulbull" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [harunbulbul.com/projects](harunbulbul.com/projects)
+- 👨‍💻 All of my projects are available at [[harunbulbul.com/projects](harunbulbul.com/projects)]
 
 - 📫 How to reach me **harun@harunbulbul.com**
 
-- 📄 Know about my experiences [harunbulbul.com/HARUN_BULBUL_CV.pdf](harunbulbul.com/HARUN_BULBUL_CV.pdf)
+- 📄 Know about my experiences [[harunbulbul.com/harunbulbul.pdf](harunbulbul.com/harunbulbul.pdf)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
