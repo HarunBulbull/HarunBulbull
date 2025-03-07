@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harunbulbull" alt="harunbulbull" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [harunbulbul.com](harunbulbul.com)
-
-- 📝 I regularly write articles on [harunbulbul.com/blog](harunbulbul.com/blog)
+- 👨‍💻 All of my projects are available at [harunbulbul.com/projects](harunbulbul.com/projects)
 
 - 📫 How to reach me **harun@harunbulbul.com**
 
