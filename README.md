@@ -39,8 +39,6 @@
 ---
 
 ### 🛠️ Languages and Tools
-*(This section uses the `skillicons` infrastructure for a more modern and cohesive look)*
-
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,vue,nodejs,express,nestjs,php,laravel,python,django,cs,dotnet,java,c,cpp,kotlin" />
