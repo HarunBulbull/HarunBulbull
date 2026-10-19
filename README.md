@@ -1,78 +1,119 @@
+<!-- Profile README • Harun Bülbül -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi,%20I'm%20Harun%20Bülbül&fontSize=50&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Web%20Developer&descAlignY=55&descAlign=62" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,35:312e81,70:7c3aed,100:06b6d4&text=HARUN%20B%C3%9CLB%C3%9CL&fontSize=50&fontColor=ffffff&fontAlignY=37&animation=twinkling&desc=FULL%20STACK%20DEVELOPER%20%E2%80%A2%20CREATIVE%20BUILDER&descAlignY=58&descSize=17" alt="Harun Bülbül animated banner" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2700&pause=800&color=22D3EE&center=true&vCenter=true&repeat=true&width=820&height=65&lines=Hello%2C+World!+I%27m+Harun+%F0%9F%91%8B;Building+modern+web+experiences+%E2%9A%A1;From+idea+to+production+%F0%9F%9A%80;Code.+Design.+Create.+Repeat.+%F0%9F%92%BB" alt="Animated typing introduction" />
+</a>
+
+<p>
+  <a href="https://harunbulbul.com"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/harun-b%C3%BClb%C3%BCl/"><img src="https://img.shields.io/badge/LINKEDIN-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:harun@harunbulbul.com"><img src="https://img.shields.io/badge/EMAIL-Say%20Hello-06b6d4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=HarunBulbull&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views" />
+
 </div>
 
-<h3 align="center">🚀 Turning Ideas into Code | Full Stack Developer @Obiziz</h3>
+## `> whoami` 👨‍💻
+
+```typescript
+const harun = {
+  name: "Harun Bülbül",
+  role: "Full Stack Developer",
+  location: "Ankara, Türkiye",
+  company: "Obiziz Digital Communication",
+  interests: ["Web Development", "Mobile Apps", "UI/UX", "Creative Coding"],
+  motto: "Build things that make a difference."
+};
+```
+
+- 💻 I build **modern, functional, and thoughtful digital products**.
+- 🎨 I enjoy the intersection of **clean code, design, and user experience**.
+- 🧩 I love turning complex ideas into **simple, usable solutions**.
+- 🌐 Explore my work: **[harunbulbul.com](https://harunbulbul.com)**.
+
+---
+
+## ⚙️ Tech Universe
 
 <div align="center">
-  <a href="https://harunbulbul.com">
-    <img src="https://img.shields.io/badge/Website-harunbulbul.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="mailto:harun@harunbulbul.com">
-    <img src="https://img.shields.io/badge/Email-harun%40harunbulbul.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/harun-bülbül-5b0a022a6">
-    <img src="https://img.shields.io/badge/LinkedIn-Harun_Bülbül-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/hrn_blbl">
-    <img src="https://img.shields.io/badge/Instagram-hrn__blbl-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://twitter.com/harunbulbulll">
-    <img src="https://img.shields.io/badge/Twitter-harunbulbulll-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</div>
 
-<br>
+**Frontend & UI**
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=harunbulbull&label=Profile+Views&color=blueviolet&style=flat-square" alt="Harun Bülbül Profile Views" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,tailwind,bootstrap&perline=10" alt="Frontend skills" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,python,django,dotnet,mongodb,mysql,sqlite&perline=11" alt="Backend skills" />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,firebase,figma,ps,vscode,postman&perline=9" alt="Tools" />
+
 </div>
 
 ---
 
-### 👨‍💻 A Little Bit About Me
-- 🔭 I’m currently working at **Obiziz Digital Communication Ltd. Co.**
-- 🌍 I am based in **Ankara, Turkey**.
-- 💡 I love learning new technologies and developing modern web and mobile applications.
-- 📝 You can check out all my projects at [harunbulbul.com/projects](https://harunbulbul.com/projects).
+## 📈 Live GitHub Dashboard
 
----
-
-### 🛠️ Languages and Tools
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,vue,nodejs,express,nestjs,php,laravel,python,django,cs,dotnet,java,c,cpp,kotlin" />
-    <br><br>
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,mysql,mongodb,sqlite,postgres,firebase,git,linux,figma,ps,ai" />
-  </a>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HarunBulbull&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=E2E8F0" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarunBulbull&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E2E8F0" alt="Top languages" />
+
+<img width="75%" src="https://streak-stats.demolab.com?user=HarunBulbull&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE" alt="GitHub streak" />
+
+</div>
+
+## ⚡ Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HarunBulbull&bg_color=0d1117&color=22d3ee&line=a78bfa&point=ffffff&area=true&area_color=7c3aed&hide_border=true" alt="GitHub contribution activity graph" />
+
+</div>
+
+## 🐍 Watch the Contributions Get Eaten
+
+<div align="center">
+
+<!-- Generated by .github/workflows/snake.yml after the action runs -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarunBulbull/HarunBulbull/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarunBulbull/HarunBulbull/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated snake eating contribution squares" src="https://raw.githubusercontent.com/HarunBulbull/HarunBulbull/output/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
 
 ---
 
-### 📊 GitHub Statistics
+## 🚀 Selected Projects
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harunbulbull&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Harun's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harunbulbull&theme=tokyonight&hide_border=true&background=0D1117" alt="Harun's Streak" width="48%" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harunbulbull&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+
+<a href="https://github.com/HarunBulbull/turkey-bank-bins"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=HarunBulbull&repo=turkey-bank-bins&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E2E8F0" alt="turkey-bank-bins" /></a>
+<a href="https://github.com/HarunBulbull/GSMTakip"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=HarunBulbull&repo=GSMTakip&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E2E8F0" alt="GSMTakip" /></a>
+<a href="https://github.com/HarunBulbull/EHD-Meet"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=HarunBulbull&repo=EHD-Meet&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E2E8F0" alt="EHD-Meet" /></a>
+<a href="https://github.com/HarunBulbull/Wordle"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=HarunBulbull&repo=Wordle&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E2E8F0" alt="Wordle" /></a>
+
+<a href="https://harunbulbul.com/projects"><img src="https://img.shields.io/badge/EXPLORE-ALL%20PROJECTS-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects" /></a>
+
 </div>
 
 ---
 
-### 🏆 Some of My Popular Projects
-
-- 💳 **[turkey-bank-bins](https://github.com/HarunBulbull/turkey-bank-bins)** - Turkey bank BIN numbers and verification processes.
-- 🎥 **[EHD-Meet](https://github.com/HarunBulbull/EHD-Meet)** - Video meeting application.
-- 🟩 **[Wordle](https://github.com/HarunBulbull/Wordle)** - A clone of the popular word-guessing game.
-- 📱 **[GSMTakip](https://github.com/HarunBulbull/GSMTakip)** - GSM tracking software developed with C#.
-
----
-
 <div align="center">
-  <i>If my projects caught your eye or you just want to chat, feel free to reach out! ☕</i>
-  <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+
+### ✨ Let's build something great.
+
+*Have an idea, a project, or just want to talk tech? Let's connect.*
+
+<a href="mailto:harun@harunbulbul.com"><img src="https://img.shields.io/badge/LET'S%20TALK-harun%40harunbulbul.com-06b6d4?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me" /></a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06b6d4,50:7c3aed,100:0f172a" alt="Wave footer" />
+
 </div>
