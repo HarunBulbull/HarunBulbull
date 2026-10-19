@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="196" viewBox="0 0 460 196" role="img" aria-labelledby="title desc">
+  <title id="title">Wordle</title>
+  <desc id="desc">Five letters. A fresh challenge. A word puzzle powered by the Datamuse API. JavaScript / Word game</desc>
+  <rect x="1" y="1" width="458" height="194" rx="12" fill="#101c32" stroke="#304766"/>
+  <path d="M25 28v28" stroke="#c4b5fd" stroke-width="3" stroke-linecap="round"/>
+  <g fill="none" stroke="#c4b5fd" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="388" y="26" width="13" height="13" rx="2"/><rect x="406" y="26" width="13" height="13" rx="2"/><rect x="388" y="44" width="13" height="13" rx="2"/><rect x="406" y="44" width="13" height="13" rx="2"/></g>
+  <g font-family="'Trebuchet MS',Arial,sans-serif">
+    <text x="39" y="49" fill="#f3f5f7" font-size="24" font-weight="700">Wordle</text>
+    <text x="25" y="89" fill="#d1dceb" font-size="15">Five letters. A fresh challenge.</text>
+    <text x="25" y="113" fill="#9aafc7" font-size="14">A word puzzle powered by the Datamuse API.</text>
+  </g>
+  <path d="M25 137H435" stroke="#2a3d58"/>
+  <text x="25" y="168" fill="#c4b5fd" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="11">JavaScript / Word game</text>
+  <path d="M416 166h15m-5-5 5 5-5 5" fill="none" stroke="#c4b5fd" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

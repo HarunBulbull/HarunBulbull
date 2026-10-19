@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="196" viewBox="0 0 460 196" role="img" aria-labelledby="title desc">
+  <title id="title">GSM Takip</title>
+  <desc id="desc">Less paperwork. More repair work. Customers, repairs, orders, and accounts. C# / Desktop application</desc>
+  <rect x="1" y="1" width="458" height="194" rx="12" fill="#101c32" stroke="#304766"/>
+  <path d="M25 28v28" stroke="#9cbeff" stroke-width="3" stroke-linecap="round"/>
+  <g fill="none" stroke="#9cbeff" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="395" y="23" width="22" height="36" rx="5"/><path d="M402 51h8"/></g>
+  <g font-family="'Trebuchet MS',Arial,sans-serif">
+    <text x="39" y="49" fill="#f3f5f7" font-size="24" font-weight="700">GSM Takip</text>
+    <text x="25" y="89" fill="#d1dceb" font-size="15">Less paperwork. More repair work.</text>
+    <text x="25" y="113" fill="#9aafc7" font-size="14">Customers, repairs, orders, and accounts.</text>
+  </g>
+  <path d="M25 137H435" stroke="#2a3d58"/>
+  <text x="25" y="168" fill="#9cbeff" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="11">C# / Desktop application</text>
+  <path d="M416 166h15m-5-5 5 5-5 5" fill="none" stroke="#9cbeff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

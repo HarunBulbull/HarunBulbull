@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="420" viewBox="0 0 960 420" role="img" aria-labelledby="title desc">
+  <title id="title">Harun Bülbül — Full Stack Developer</title>
+  <desc id="desc">A midnight blue canvas with oversized lettering and a gently animated editor. Ideas become interfaces, APIs, and experiences. Based in Ankara, Türkiye.</desc>
+  <defs>
+    <radialGradient id="wash" cx="83%" cy="22%" r="76%">
+      <stop offset="0" stop-color="#213f67"/>
+      <stop offset="1" stop-color="#101c32"/>
+    </radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#9aafc7" stroke-opacity=".07"/>
+    </pattern>
+    <clipPath id="canvas"><rect width="960" height="420" rx="18"/></clipPath>
+    <clipPath id="code"><rect x="568" y="138" width="334" height="170"/></clipPath>
+  </defs>
+  <style>
+    .sans{font-family:"Trebuchet MS",Arial,sans-serif}
+    .mono{font-family:"DejaVu Sans Mono",Consolas,monospace}
+    .flow{stroke-dasharray:8 310;animation:flow 7s linear infinite}
+    .cursor{animation:blink 1.2s steps(1,end) infinite}
+    .line{animation:code 12s ease-in-out infinite}
+    .l2{animation-delay:.6s}.l3{animation-delay:1.2s}.l4{animation-delay:1.8s}.l5{animation-delay:2.4s}
+    .halo{transform-origin:748px 205px;animation:breathe 7s ease-in-out infinite}
+    @keyframes flow{to{stroke-dashoffset:-636}}
+    @keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+    @keyframes code{0%,5%{opacity:.2;transform:translateY(3px)}12%,82%{opacity:1;transform:translateY(0)}94%,100%{opacity:.2;transform:translateY(3px)}}
+    @keyframes breathe{0%,100%{opacity:.3;transform:scale(.98)}50%{opacity:.65;transform:scale(1.03)}}
+    @media(prefers-reduced-motion:reduce){.flow,.cursor,.line,.halo{animation:none}.line{opacity:1}}
+  </style>
+  <g clip-path="url(#canvas)">
+    <rect width="960" height="420" fill="url(#wash)"/>
+    <rect x="490" width="470" height="420" fill="url(#grid)"/>
+    <circle class="halo" cx="748" cy="205" r="177" fill="none" stroke="#669dff" stroke-width="1"/>
+    <circle cx="748" cy="205" r="205" fill="none" stroke="#669dff" stroke-opacity=".1"/>
+    <path d="M48 37H84" stroke="#5de4c7" stroke-width="3" stroke-linecap="round"/>
+    <text x="96" y="42" class="mono" font-size="12" fill="#bacbe0">Hello, world. I'm</text>
+    <text x="45" y="148" class="sans" font-size="88" font-weight="700" letter-spacing="-5" fill="#f3f5f7">Harun</text>
+    <text x="45" y="238" class="sans" font-size="88" font-weight="700" letter-spacing="-5" fill="#f3f5f7">Bülbül.</text>
+    <text x="49" y="285" class="sans" font-size="22" fill="#9cbeff">Full Stack Developer</text>
+    <text x="49" y="314" class="sans" font-size="15" fill="#a8bbd3">A little design. A lot of building.</text>
+    <g>
+      <rect x="550" y="73" width="362" height="267" rx="12" fill="#0c1729" stroke="#365274"/>
+      <path d="M550 113H912" stroke="#2a3d58"/>
+      <circle cx="571" cy="93" r="4" fill="#f08c87"/>
+      <circle cx="586" cy="93" r="4" fill="#f7c777"/>
+      <circle cx="601" cy="93" r="4" fill="#5de4c7"/>
+      <text x="631" y="97" class="mono" font-size="11" fill="#9aafc7">a-small-idea.ts</text>
+      <text x="889" y="97" text-anchor="end" class="mono" font-size="10" fill="#5de4c7">TS</text>
+      <g class="mono" font-size="13" clip-path="url(#code)">
+        <g class="line"><text x="575" y="151" fill="#a8bbd3"><tspan fill="#9cbeff">const</tspan> developer = {</text></g>
+        <g class="line l2"><text x="591" y="181" fill="#bacbe0">name: <tspan fill="#5de4c7">'Harun Bülbül'</tspan>,</text></g>
+        <g class="line l3"><text x="591" y="211" fill="#bacbe0">builds: [<tspan fill="#f7c777">'web'</tspan>, <tspan fill="#f7c777">'mobile'</tspan>],</text></g>
+        <g class="line l4"><text x="591" y="241" fill="#bacbe0">cares: <tspan fill="#5de4c7">'the details'</tspan></text></g>
+        <g class="line l5"><text x="575" y="271" fill="#bacbe0">};</text><text x="575" y="301" fill="#9cbeff">build<tspan fill="#bacbe0">(developer);</tspan></text></g>
+        <rect class="cursor" x="710" y="289" width="7" height="15" fill="#5de4c7"/>
+      </g>
+      <circle cx="574" cy="323" r="3" fill="#5de4c7"/>
+      <text x="585" y="327" class="mono" font-size="10" fill="#9aafc7">ideas → interfaces → experiences</text>
+    </g>
+    <path d="M49 357H463C500 357 500 371 537 371H911" fill="none" stroke="#365274"/>
+    <path class="flow" d="M49 357H463C500 357 500 371 537 371H911" fill="none" stroke="#5de4c7" stroke-width="2" stroke-linecap="round"/>
+    <text x="49" y="391" class="mono" font-size="11" fill="#9aafc7">Ankara, Türkiye</text>
+    <text x="911" y="397" text-anchor="end" class="mono" font-size="11" fill="#9aafc7">harunbulbul.com</text>
+  </g>
+</svg>

@@ -1,131 +1,70 @@
-<!-- Harun Bülbül • Profile README v3 • 2026-10-19 -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,35:312e81,70:7c3aed,100:06b6d4&text=HARUN%20B%C3%9CLB%C3%9CL&fontSize=50&fontColor=ffffff&fontAlignY=37&animation=twinkling&desc=FULL%20STACK%20DEVELOPER%20%E2%80%A2%20CREATIVE%20BUILDER&descAlignY=58&descSize=17" alt="Harun Bülbül animated banner" />
+<img src="./assets/hero.svg" width="100%" alt="Harun Bülbül — Full Stack Developer in Ankara, Türkiye. An animated code editor brings an idea to life." />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2700&pause=800&color=22D3EE&center=true&vCenter=true&repeat=true&width=820&height=65&lines=Hello%2C+World!+I%27m+Harun+%F0%9F%91%8B;Building+modern+web+experiences+%E2%9A%A1;From+idea+to+production+%F0%9F%9A%80;Code.+Design.+Create.+Repeat.+%F0%9F%92%BB" alt="Animated typing introduction" />
-</a>
+<br />
 
-<p>
-  <a href="https://harunbulbul.com"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/harun-b%C3%BClb%C3%BCl/"><img src="https://img.shields.io/badge/LINKEDIN-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:harun@harunbulbul.com"><img src="https://img.shields.io/badge/EMAIL-Say%20Hello-06b6d4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+**[Portfolio](https://harunbulbul.com)** &nbsp; / &nbsp; **[LinkedIn](https://www.linkedin.com/in/harun-b%C3%BClb%C3%BCl/)** &nbsp; / &nbsp; **[Email](mailto:harun@harunbulbul.com)**
 
-<img src="https://komarev.com/ghpvc/?username=HarunBulbull&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views" />
+<br />
+
+<p>I build for the web, with an eye for design and a love for the details.<br />From the first interface to the API behind it, I enjoy making the pieces work together.</p>
 
 </div>
 
-## `> whoami` 👨‍💻
+<br />
 
-```typescript
-const harun = {
-  name: "Harun Bülbül",
-  role: "Full Stack Developer",
-  location: "Ankara, Türkiye",
-  company: "Obiziz Digital Communication",
-  interests: ["Web Development", "Mobile Apps", "UI/UX", "Creative Coding"],
-  motto: "Build things that make a difference."
-};
-```
+## A little about me
 
-- 💻 I build **modern, functional, and thoughtful digital products**.
-- 🎨 I enjoy the intersection of **clean code, design, and user experience**.
-- 🧩 I love turning complex ideas into **simple, usable solutions**.
-- 🌐 Explore my work: **[harunbulbul.com](https://harunbulbul.com)**.
+I'm **Harun**, a full stack developer based in **Ankara, Türkiye**, working at **Obiziz Digital Communication**. I like building useful software that feels good to use.
 
----
+- **On the screen:** considered interfaces, responsive layouts, and thoughtful interactions.
+- **Behind the scenes:** APIs, databases, and the logic that keeps everything connected.
+- **Beyond the browser:** mobile apps, developer tools, and creative experiments.
 
-## ⚙️ Tech Universe
+## My toolkit
+
+| Where I work | What I work with |
+| :--- | :--- |
+| **Interfaces** | `JavaScript` · `TypeScript` · `React` · `Next.js` · `Vue` · `Angular` |
+| **Style & interaction** | `HTML` · `CSS` · `Tailwind CSS` · `Bootstrap` · `Figma` |
+| **Servers & APIs** | `Node.js` · `Express` · `NestJS` · `PHP` · `Laravel` · `Python` · `Django` · `.NET` |
+| **Data & infrastructure** | `MongoDB` · `MySQL` · `SQLite` · `Firebase` · `Docker` · `Linux` |
+| **Everyday tools** | `Git` · `GitHub` · `VS Code` · `Postman` · `Photoshop` |
+
+## Things I've built
 
 <div align="center">
-
-**Frontend & UI**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,tailwind,bootstrap&perline=10" alt="Frontend skills" />
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,python,django,dotnet,mongodb,mysql,sqlite&perline=11" alt="Backend skills" />
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,firebase,figma,ps,vscode,postman&perline=9" alt="Tools" />
-
+<a href="https://github.com/HarunBulbull/EHD-Meet"><img src="./assets/project-ehd.svg" width="390" alt="EHD Meet — Online meetings for Ege University Hospital. React, Node.js, Socket.IO." /></a>
+<a href="https://github.com/HarunBulbull/GSMTakip"><img src="./assets/project-gsm.svg" width="390" alt="GSM Takip — Customer, repair, and account tracking for phone repair shops. C#." /></a>
+<a href="https://github.com/HarunBulbull/turkey-bank-bins"><img src="./assets/project-bins.svg" width="390" alt="Turkey Bank BINs — A reference for Turkish bank card BINs." /></a>
+<a href="https://github.com/HarunBulbull/Wordle"><img src="./assets/project-wordle.svg" width="390" alt="Wordle — A take on the word puzzle, powered by the Datamuse API. JavaScript." /></a>
 </div>
 
----
+<p align="right"><a href="https://github.com/HarunBulbull?tab=repositories">Explore my repositories ↗</a></p>
 
-## 📈 Live GitHub Dashboard
+## A year, one square at a time
 
-<div align="center">
+My GitHub contributions, with a little more movement.
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HarunBulbull&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=E2E8F0" alt="GitHub stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarunBulbull&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E2E8F0" alt="Top languages" />
-
-<img width="75%" src="https://streak-stats.demolab.com?user=HarunBulbull&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE" alt="GitHub streak" />
-
-</div>
-
-## ⚡ Contribution Activity
-
-<div align="center">
-
-<a href="https://github.com/HarunBulbull?tab=overview">
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarunBulbull&theme=tokyonight" alt="Contribution activity overview" />
-</a>
-
-<sub>If the chart doesn't load, <a href="https://github.com/HarunBulbull?tab=overview">view my contributions directly on GitHub</a>.</sub>
-
-</div>
-
-## 🐍 The Contribution Snake
-
-<div align="center">
-
-<!-- Generated by .github/workflows/snake.yml after the action runs -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarunBulbull/HarunBulbull/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarunBulbull/HarunBulbull/output/github-contribution-grid-snake.svg" />
-  <img alt="Animated snake eating contribution squares" src="https://raw.githubusercontent.com/HarunBulbull/HarunBulbull/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+  <img src="./assets/github-snake.svg" width="100%" alt="An animated snake travels through HarunBulbull's actual GitHub contribution calendar." />
 </picture>
 
-<sub>Powered by GitHub Actions · Updated every day after the workflow runs.</sub>
-
-</div>
-
----
-
-## 🛠️ What I Like Building
-
-> Modern interfaces, useful developer tools, and products that bring design and engineering together.
-
----
-
-## 🚀 Selected Projects
-
-<div align="center">
-
-<a href="https://github.com/HarunBulbull/turkey-bank-bins"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=HarunBulbull&repo=turkey-bank-bins&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E2E8F0" alt="turkey-bank-bins" /></a>
-<a href="https://github.com/HarunBulbull/GSMTakip"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=HarunBulbull&repo=GSMTakip&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E2E8F0" alt="GSMTakip" /></a>
-<a href="https://github.com/HarunBulbull/EHD-Meet"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=HarunBulbull&repo=EHD-Meet&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E2E8F0" alt="EHD-Meet" /></a>
-<a href="https://github.com/HarunBulbull/Wordle"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=HarunBulbull&repo=Wordle&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E2E8F0" alt="Wordle" /></a>
-
-<a href="https://harunbulbul.com/projects"><img src="https://img.shields.io/badge/EXPLORE-ALL%20PROJECTS-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects" /></a>
-
-</div>
+<p align="center"><sub>Regenerated daily with <a href="https://github.com/HarunBulbull/HarunBulbull/actions/workflows/snake.yml">GitHub Actions</a> · Animation by <a href="https://github.com/Platane/snk">snk</a></sub></p>
 
 ---
 
 <div align="center">
 
-### ✨ Let's build something great.
+### Have something in mind?
 
-*Have an idea, a project, or just want to talk tech? Let's connect.*
+Let's turn it into something you can use.
 
-<a href="mailto:harun@harunbulbul.com"><img src="https://img.shields.io/badge/LET'S%20TALK-harun%40harunbulbul.com-06b6d4?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me" /></a>
+**[harun@harunbulbul.com](mailto:harun@harunbulbul.com)**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06b6d4,50:7c3aed,100:0f172a" alt="Wave footer" />
+<sub>Made with care, from Ankara.</sub>
 
 </div>
