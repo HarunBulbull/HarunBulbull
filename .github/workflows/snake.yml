@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Snake Animation
 
 on:
   workflow_dispatch:
