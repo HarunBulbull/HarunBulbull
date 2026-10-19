@@ -8,7 +8,7 @@ for the banner and `assets/project-*.svg` for the project cards.
 
 `snake.yml` generates light and dark SVGs from the repository owner's real GitHub
 contributions. It runs daily at 03:17 UTC (06:17 in Türkiye), when the README or
-workflow is pushed to `main`, or through **Actions → Generate contribution snake
+workflow is pushed to `main`, or through **Actions → Snake Animation
 → Run workflow**. It commits only the two snake SVGs back to `main` using the
 built-in `GITHUB_TOKEN`; no personal access token or `output` branch is needed.
 
