@@ -1,4 +1,4 @@
-<!-- Profile README • Harun Bülbül -->
+<!-- Harun Bülbül • Profile README v3 • 2026-10-19 -->
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,35:312e81,70:7c3aed,100:06b6d4&text=HARUN%20B%C3%9CLB%C3%9CL&fontSize=50&fontColor=ffffff&fontAlignY=37&animation=twinkling&desc=FULL%20STACK%20DEVELOPER%20%E2%80%A2%20CREATIVE%20BUILDER&descAlignY=58&descSize=17" alt="Harun Bülbül animated banner" />
@@ -72,11 +72,15 @@ const harun = {
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HarunBulbull&bg_color=0d1117&color=22d3ee&line=a78bfa&point=ffffff&area=true&area_color=7c3aed&hide_border=true" alt="GitHub contribution activity graph" />
+<a href="https://github.com/HarunBulbull?tab=overview">
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarunBulbull&theme=tokyonight" alt="Contribution activity overview" />
+</a>
+
+<sub>If the chart doesn't load, <a href="https://github.com/HarunBulbull?tab=overview">view my contributions directly on GitHub</a>.</sub>
 
 </div>
 
-## 🐍 Watch the Contributions Get Eaten
+## 🐍 The Contribution Snake
 
 <div align="center">
 
@@ -87,7 +91,15 @@ const harun = {
   <img alt="Animated snake eating contribution squares" src="https://raw.githubusercontent.com/HarunBulbull/HarunBulbull/output/github-contribution-grid-snake.svg" />
 </picture>
 
+<sub>Powered by GitHub Actions · Updated every day after the workflow runs.</sub>
+
 </div>
+
+---
+
+## 🛠️ What I Like Building
+
+> Modern interfaces, useful developer tools, and products that bring design and engineering together.
 
 ---
 
